@@ -1,0 +1,3 @@
+C:/Users/frand/Documents/GitHub/Practivas_C/build/CMakeFiles/main.dir
+C:/Users/frand/Documents/GitHub/Practivas_C/build/CMakeFiles/edit_cache.dir
+C:/Users/frand/Documents/GitHub/Practivas_C/build/CMakeFiles/rebuild_cache.dir

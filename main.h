@@ -7,6 +7,7 @@
 #include <stddef.h> // NULL, size_t
 #include <string.h> // memcpy, memset
 #include <stdlib.h>
+#include "matrix.h"
 
 
 

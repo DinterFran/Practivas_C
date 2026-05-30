@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/frand/Documents/GitHub/Practivas_C/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\main.c.obj -c C:\\Users\\frand\\Documents\\GitHub\\Practivas_C\\main.c",
+  "file": "C:/Users/frand/Documents/GitHub/Practivas_C/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/frand/Documents/GitHub/Practivas_C/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\matrix.c.obj -c C:\\Users\\frand\\Documents\\GitHub\\Practivas_C\\matrix.c",
+  "file": "C:/Users/frand/Documents/GitHub/Practivas_C/matrix.c",
+  "output": "CMakeFiles/main.dir/matrix.c.obj"
+}
+]
